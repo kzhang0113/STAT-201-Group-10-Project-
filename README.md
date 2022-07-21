@@ -1,1 +1,2 @@
-# STAT-201-Group-10-Project-
+# STAT_201_Group_10_Project
+Authors: Waris Bhatia, Lucy Liu, Yolanda Wu, Caroline Zhang
